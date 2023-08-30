@@ -1,7 +1,7 @@
 #ifndef RANDOM_H
 #define RANDOM_H
 
-// Function Declaration
+// Function Declaratio
 char randchar();
 
 #endif
