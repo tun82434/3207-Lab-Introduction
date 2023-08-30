@@ -5,7 +5,7 @@
 
 
 char randchar(){
-    int charNum = rand() % 26;
-    return ('a' + charNum);
+    int charNum = rand() % 26; // charNum: a number between 0 - 25
+    return ('a' + charNum); // returns a char a-z
 }
 
