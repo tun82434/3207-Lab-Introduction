@@ -5,7 +5,6 @@
 
 
 char randchar(){
-    srand(time(NULL));
     int charNum = rand() % 26;
     return ('a' + charNum);
 }
